@@ -1,0 +1,36 @@
+_repo: Kokoro--Hints-and-Echoes-of-Japanese-Inner-Life_8882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Hearn, Patrick Lafcadio
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Civilization'
+- !lcsh 'Japan -- Social life and customs'
+- !lcsh 'Folklore -- Japan'
+- !lcc 'DS'
+- GITenberg
+tableOfContents: 'At a railway station -- The genius of Japanese civilization -- A
+  street singer -- From a traveling diary -- The nun of the temple of Amida -- After
+  the war -- Haru -- A glimpse of tendencies -- By force of Karma -- A conservative
+  -- In the twilight of the gods -- The idea of pre-existence -- In cholera-time --
+  Some thoughts about ancestor-worship -- Kimiko -- Appendix: Three popular ballads.'
+title: 'Kokoro: Hints and Echoes of Japanese Inner Life'
+url: http://www.gutenberg.org/ebooks/8882
