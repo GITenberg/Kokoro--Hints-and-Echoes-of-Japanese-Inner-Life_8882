@@ -1,5 +1,8 @@
 _repo: Kokoro--Hints-and-Echoes-of-Japanese-Inner-Life_8882
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8882#Kokoro--Hints-and-Echoes-of-Japanese-Inner-Life
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
